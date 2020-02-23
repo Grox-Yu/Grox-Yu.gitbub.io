@@ -1,8 +1,8 @@
-I"3<blockquote>
+I"(<blockquote>
   <p>“Yeah It’s on. ”</p>
 </blockquote>
 
-<p>从wordpress转战Github Pages的第一帖，鼓捣了半天终于搞好了基本的配置。以后就在这上面继续写博之旅啦。</p>
+<p>从wordpress转战Github Pages的第一帖，鼓捣了半天终于搞好了基本的配置（基于jekyll）。以后就在这上面继续写博之旅啦。</p>
 
 <p>以什么作为开始呢，就直接引用我2016年搭好Wordpress环境后，发表的第一篇文章的片段为引子吧。</p>
 
@@ -11,11 +11,8 @@
 最近在学校论坛上看到一篇帖子，帖子里贴的是那位题主大一时刚来学校写的日记。日记里的文字很简单，从火车站过来，搬东西，有点累，和对之后大学生活的憧憬。</p>
 
 </blockquote>
-<center>
 
-![](/img/newimg/zhixingdiary.jpg)
-</center>
-<p><!--结束居中对齐--></p>
+<p><img src="/img/newimg/zhixingdiary.jpg" alt="" /></p>
 
 <blockquote>
   <p>转眼间那位题主就大四毕业了，毕业的时候整理东西突然看到了那篇日记，感慨良多，于是放到了论坛上。</p>
