@@ -27,15 +27,15 @@ Momenta第一次见面会定在七月初，那天下着瓢泼大雨，抵达公�
 比赛的内容大致就是机器人足球赛，一个小球，敌我两个机器人，双方球门。规则是普通球赛的简化规则。视觉算法和控制算法主要是冯昊、余唯民和闫坤在搞，主要用来识别小球，球门，并进行测距等工作，以及小车后续的射门的运动轨迹。我和刘帅主要提供turtlebot和RoS的底层API供调用（小车运动的API、传感器等等）。
 
 ![](/img/Newimg/momenta-playground.png)
-<center><font size=2>"比赛和调试用的场地"</font></center>
+<center> <font size=2>"比赛和调试用的场地"</font> </center>
 
 比赛期间，每天都为着同一个单纯的目标奋斗，每一个小功能做出来后都会无比开心。公司提供免费三餐零食，还有技术讲座，创始人交流会。
 
 ![](/img/Newimg/momenta-dinnertalk.png)
-<center><font size=2>"Momenta Dinnertalk，主要是公司内大牛做技术分享"</font></center>
+<center> <font size=2>"Momenta Dinnertalk，主要是公司内大牛做技术分享"</font> </center>
 
 ![](/img/Newimg/momenta-ren.png)
-<center><font size=2>"公司CTO Shaoqin Ren，浑身发光的男人（忽略旁边的憨憨一枚）"</font></center>
+<center> <font size=2>"公司CTO Shaoqin Ren，浑身发光的男人（忽略旁边的憨憨一枚）"</font> </center>
 
 队友们都很厉害，虽然被选为队长，然而论技术我可能是最菜的那一个（视觉什么完全不懂）= =，但也一直秉持着为团队贡献自己最大的力量而努力。最后的结果虽然表面上不太理想，但其实主要还是由于实际场地的不确定性太大，个人觉得我们小车的控制逻辑以及灵活性上是不逊于其它任何队伍的。在这段时间也收获到了非常非常多的东西，非常幸运可以认识其它四位队友，希望之后能有工作上再次合作的机会，生活上一起玩耍的机会。
 
