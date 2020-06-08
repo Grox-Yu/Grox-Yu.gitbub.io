@@ -4,7 +4,7 @@ title:      "Momenta Challenge比赛小记"
 subtitle:   " \"与无人驾驶的第一次亲密接触\""
 date:       2020-02-24 22:00:00
 author:     "Groxyu"
-header-img: "img/post-momenta.png"
+header-img: "img/post-momenta.jpg"
 catalog: true
 tags:
     - 生活
