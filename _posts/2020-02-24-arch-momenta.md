@@ -9,6 +9,7 @@ catalog: true
 tags:
     - 生活
     - Meta
+    - arch
 ---
 
 > “Archive之青春的记录 —— 来自于2018年，纠结的我顶着毕业的压力不务正业~”
