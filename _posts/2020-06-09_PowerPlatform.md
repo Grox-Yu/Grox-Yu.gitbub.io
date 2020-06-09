@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "微软PowerPlatform低代码黑客松"
-date:       2020-06-09 22:00:00
+date:       2020-06-07 22:00:00
 author:     "Groxyu"
 header-img: "img/post-powerplatform.jpg"
 catalog: true
