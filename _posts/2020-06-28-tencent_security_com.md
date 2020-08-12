@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2020腾讯安全平台部极客技术挑战赛试玩"
-date:       2020-06-07 22:00:00
+date:       2020-06-28 22:00:00
 author:     "Groxyu"
 header-img: "img/post-black.jpg"
 catalog: true
@@ -88,3 +88,6 @@ int main()
 题目不知道是什么含义了，咋整？
 
 想了很久不知道从哪里入手。。知道的套路太少了。还是等等后续大佬们给出结果吧。已关注腾讯安全公众号，期待最后给出的结果，安全小白也可以学习学习，到时候再补充记录吧。T T
+
+---------
+后续整体答案解答：https://mp.weixin.qq.com/s/IrX0NagbcmHqACcjW62yFQ。
