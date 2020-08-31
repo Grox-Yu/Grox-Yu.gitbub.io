@@ -18,7 +18,7 @@ tags:
 
 那么再往前一步，带着小半年的经历后，就是需要找一个实习/线下封闭式比赛的渠道了，带着之前找工作的简历开始疯狂投有没有在暑假期间进行的AI相关的活动。投了很多CAMP，夏令营都被拒绝了，但后续的offer也到到来得很整齐：一个蓝火计划、一个Momenta的Challenge，还有8月多凑数的水会一则。突然感觉自己又繁忙了起来。。
 
-![](http://www.caesargrox.com/wp-content/uploads/2020/04/momenta-offer.jpg)
+![](https://s1.ax1x.com/2020/08/31/dXntyj.jpg)
 <center>"请忽略我的那篇在同一时间被接收的的水会一则"</center>
 
 最后一番斟酌之后，放弃了教育部的蓝火计划，决定参加Momenta的MC world。事实证明，这是一个无比正确的选择。
@@ -27,20 +27,20 @@ Momenta第一次见面会定在七月初，那天下着瓢泼大雨，抵达公�
 
 比赛的内容大致就是机器人足球赛，一个小球，敌我两个机器人，双方球门。规则是普通球赛的简化规则。视觉算法和控制算法主要是冯昊、余唯民和闫坤在搞，主要用来识别小球，球门，并进行测距等工作，以及小车后续的射门的运动轨迹。我和刘帅主要提供turtlebot和RoS的底层API供调用（小车运动的API、传感器等等）。
 
-![](http://www.caesargrox.com/wp-content/uploads/2020/04/momenta-playground.png)
+![](https://s1.ax1x.com/2020/08/31/dXnwT0.png)
 <center>"比赛和调试用的场地"</center>
 
 比赛期间，每天都为着同一个单纯的目标奋斗，每一个小功能做出来后都会无比开心。公司提供免费三餐零食，还有技术讲座，创始人交流会。
 
-![](http://www.caesargrox.com/wp-content/uploads/2020/04/momenta-dinnertalk.png)
+![](https://s1.ax1x.com/2020/08/31/dXn6l4.png)
 <center>"Momenta Dinnertalk，主要是公司内大牛做技术分享"</center>
 
-![](http://www.caesargrox.com/wp-content/uploads/2020/04/momenta-ren.png)
+![](https://s1.ax1x.com/2020/08/31/dXnDYT.png)
 <center>"公司CTO Shaoqin Ren，浑身发光的男人（忽略旁边的憨憨一枚）"</center>
 
 队友们都很厉害，最后的结果虽然表面上不太理想，但其实主要还是由于实际场地的不确定性太大，个人觉得我们小车的控制逻辑以及灵活性上是不逊于其它任何队伍的。在这段时间也收获到了非常非常多的东西，非常幸运可以认识其它四位队友，希望之后能有工作上再次合作的机会，生活上一起玩耍的机会。
 
-![](http://www.caesargrox.com/wp-content/uploads/2020/04/momenta-tsinghua.png)
+![](https://s1.ax1x.com/2020/08/31/dXngX9.png)
 
 <center>"你见过凌晨三点的清华吗？"</center>
 

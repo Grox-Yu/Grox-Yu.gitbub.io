@@ -59,3 +59,5 @@ Fatal error: require() [function.require]: Failed opening required '__DIR__/wp-b
 
 ##### 4.
 刚提交工单，再等个几天，看这个恢复情况吧。。
+
+P.S. 后续结果，阿里云反映我使用的数据库太老，找不到相应的备份。Nice！
