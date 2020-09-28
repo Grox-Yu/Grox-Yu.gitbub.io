@@ -78,7 +78,7 @@ ga_domain: Groxyu.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "兴趣广泛的码农一枚。"
+sidebar-about-description: "接到任务先说不行，这不是我们的传统吧？"
 sidebar-avatar: /img/my_avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
