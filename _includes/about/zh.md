@@ -9,3 +9,4 @@ Hi,我是Yujun Cheng。
 * 2018年，多次参加阿里天池AI竞赛，最高拿到27/2635，了解了ML基础/基本流程。
 * 2018年，入选MomentaAI Challenge，16强，获得自动驾驶基本知识/实践经历。[链接](https://www.groxyu.com/2020/02/24/arch-momenta/)
 * 2019年，WCG 2019 AI Master项目，世界16强。获得和偶像同台竞技的难忘体验^^。[比赛视频链接](https://weibo.com/tv/show/1034:4397606898738624?from=old_pc_videoshow)
+* 2020年，清华AITrans2确定性传输比赛，入围决赛，获得“最佳个人参赛奖”。
